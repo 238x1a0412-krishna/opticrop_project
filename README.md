@@ -127,21 +127,19 @@ python app.py
 
 # 👨‍💻 Team Members
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    👨‍💻 PROJECT TEAM                         ║
-╠══════════════════════════════════════════════════════════════╣
-║ 👑 TEAM LEAD                                                ║
-║ 🌟 MANCHALA. VENKATA LAKSHMI PADMAVATHI                     ║
-╠══════════════════════════════════════════════════════════════╣
-║ 👨‍💻 TEAM MEMBERS                                            ║
-║ 🌾 D N V A KRISHNAMA CHARYULU                               ║
-║ 🌾 CHINTHAGUNTA HARSHAVARDHAN                               ║
-║ 🌾 VETAPALEM VENKATA GIRI SAI                               ║
-║ 🌾 KAVYA MANNAVA                                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
----
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                 🌱 OPTICROP DEVELOPMENT TEAM 🌱             ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ 👑 TEAM LEAD                                                 ┃
+┃    ⭐ MANCHALA. VENKATA LAKSHMI PADMAVATHI                   ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ 👨‍💻 TEAM MEMBERS                                             ┃
+┃    🚜 D N V A KRISHNAMA CHARYULU                             ┃
+┃    🚜 CHINTHAGUNTA HARSHAVARDHAN                             ┃
+┃    🚜 VETAPALEM VENKATA GIRI SAI                             ┃
+┃    🚜 KAVYA MANNAVA                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
 
 # 🤝 Contribution
 
