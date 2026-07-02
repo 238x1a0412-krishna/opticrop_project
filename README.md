@@ -122,34 +122,20 @@ python app.py
 - 🌾 Fertilizer Recommendation
 - 🐛 Disease Detection
 - 📈 Crop Yield Prediction
-
 ---
 
-# 👨‍💻 Team Members
+🚀 OPTICROP DEVELOPMENT TEAM
+🎯 Project Lead
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                 🌱 OPTICROP DEVELOPMENT TEAM 🌱             ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👑 TEAM LEAD                                                 ┃
-┃    ⭐ MANCHALA. VENKATA LAKSHMI PADMAVATHI                   ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👨‍💻 TEAM MEMBERS                                             ┃
-┃    🚜 D N V A KRISHNAMA CHARYULU                             ┃
-┃    🚜 CHINTHAGUNTA HARSHAVARDHAN                             ┃
-┃    🚜 VETAPALEM VENKATA GIRI SAI                             ┃
-┃    🚜 KAVYA MANNAVA                                          ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+👩‍💼 Manchala Venkata Lakshmi Padmavathi
 
 
-# 🤝 Contribution
+💻 Development Squad
 
-Contributions are welcome!
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push the branch
-5. Create a Pull Request
+🧑‍💻 D N V A Krishnama Charyulu
+🧑‍💻 Chinthagunta Harshavardhan
+🧑‍💻 Vetapalem Venkata Giri Sai
+🧑‍💻 Kavya Mannava
 
 ---
 
