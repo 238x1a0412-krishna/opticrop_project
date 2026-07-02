@@ -124,19 +124,19 @@ python app.py
 - 📈 Crop Yield Prediction
 ---
 
-🚀 OPTICROP DEVELOPMENT TEAM
-🎯 Project Lead
+# 🌱 OPTICROP DEVELOPMENT TEAM
 
-👩‍💼 Manchala Venkata Lakshmi Padmavathi
+## 🎯 Project Lead
+
+👩‍💼 **Manchala Venkata Lakshmi Padmavathi**
 
 
-💻 Development Squad
+## 💻 Development Squad
 
-🧑‍💻 D N V A Krishnama Charyulu
-🧑‍💻 Chinthagunta Harshavardhan
-🧑‍💻 Vetapalem Venkata Giri Sai
-🧑‍💻 Kavya Mannava
-
+- 🧑‍💻 D N V A Krishnama Charyulu
+- 🧑‍💻 Chinthagunta Harshavardhan
+- 🧑‍💻 Vetapalem Venkata Giri Sai
+- 🧑‍💻 Kavya Mannava
 ---
 
 # 📜 License
